@@ -1,0 +1,62 @@
+
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    background-color: turquoise;
+}
+
+header .nav-header-main ul, li{
+    display: inline-block;
+    margin:10px;
+  
+}
+.nav-header-main ul a{
+    color:black;
+    text-decoration: none;
+ 
+
+}
+.header-login{
+ margin-left:25%;   
+}
+.header-login, .signup{
+    display: inline-block;
+    
+}
+.form-login, .logout{
+    display: inline-block;
+}
+.form-signup{
+    background-color: white;
+    border-radius: 15px;
+    width:200px;
+    margin-left:25px;
+    padding:20px;
+}
+
+.form-signup input{
+    display: block;
+    background-color:;
+    border:1px solid #333;
+    height:20px;
+    margin:10px 0px;
+    padding:2px 10px;
+
+}
+.form-signup button {
+    border:1px solid #333;
+    padding:5px;
+    background-color: #333;
+    color:white;
+}
+
+.section-default{
+   margin: 10px 30px;
+ 
+}
+
+.section-default h1{
+    margin:10px 10px;
+}
