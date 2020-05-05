@@ -25,11 +25,12 @@ require "header.php";
                }
                else if($_GET['error'] == "usertaken") {
                 echo '<p class="signuperror">username already exists<?p>';
-               }
+               
              }   
              else if ($_GET['signup'] == 'success') {
                 echo '<p class="signuperror">Signup successful..<?p>';
 
+             }
              }
 
 
