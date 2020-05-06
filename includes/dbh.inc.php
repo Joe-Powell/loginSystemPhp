@@ -1,3 +1,5 @@
+<?php
+
 $servername = "localhost";
 $dbUsername = "root";
 $dbPassword = "12345";
